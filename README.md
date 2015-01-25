@@ -1,4 +1,3 @@
-# askao_news_bar
 **News bar plugin for wordpress en/ar**
 
 copy askao_news_bar folder in path:
