@@ -6,6 +6,9 @@ copy askao_news_bar folder in path:
 from wordpress Admin Panel Categories section:
 -create a category with name and slug: newsbar
 
+from wordpress Admin Panel Plugins section:
+- Activate "Askao News Bar" plugin
+
 you can switch between arabic and english news bar:
 from askao_news_bar.php file (english by default)
 `function newsbar_getnews() {      
