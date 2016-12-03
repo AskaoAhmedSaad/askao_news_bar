@@ -11,7 +11,9 @@ from wordpress Admin Panel Plugins section:
 
 you can switch between arabic and english news bar:
 from askao_news_bar.php file (english by default)
-`function newsbar_getnews() {      
+```
+	function newsbar_getnews() {      
 		include('shownewsbar_en.php'); // english newsbar
         	//include('shownewsbar_ar.php'); // arabic newsbar
 	}`
+```
